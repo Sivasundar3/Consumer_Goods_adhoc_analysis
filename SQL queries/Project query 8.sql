@@ -1,7 +1,7 @@
 /* 8. In which quarter of 2020,got the maximumtotal_sold_quantity? The final output contains these fields 
       sorted by 
-				 Quarter ,
-				 total_sold_quantity    */
+		 Quarter ,
+		 total_sold_quantity    */
 
 
 SELECT 
