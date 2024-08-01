@@ -1,8 +1,8 @@
 /* 2. What is the percentage of unique product increase in 2021 vs. 2020?
-   The final output contains these fields,
-   unique_products_2020 
-   unique_products_2021 
-   percentage_chg #  */ 
+      The final output contains these fields,
+                                              unique_products_2020 
+                                              unique_products_2021 
+                                               percentage_chg        */ 
    
   
 WITH CTE AS
